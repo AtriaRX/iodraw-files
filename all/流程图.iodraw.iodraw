@@ -19,7 +19,7 @@
         <mxCell id="KQ86oH6FEmzSdROwBOAi-3" value="&lt;div style=&quot;font-size: 17px;&quot;&gt;&lt;div&gt;设计新的损失函数&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=17;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="150" y="680" width="210" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="KQ86oH6FEmzSdROwBOAi-11" value="&lt;div style=&quot;font-size: 17px;&quot;&gt;处理 GNNs 数据&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=17;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="KQ86oH6FEmzSdROwBOAi-11" value="&lt;div style=&quot;font-size: 17px;&quot;&gt;确认处理 GNNs 数据&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=17;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="440" y="160" width="210" height="70" as="geometry" />
         </mxCell>
         <mxCell id="KQ86oH6FEmzSdROwBOAi-12" value="" style="shape=singleArrow;direction=south;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
