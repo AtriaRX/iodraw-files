@@ -27,9 +27,6 @@
             <mxPoint x="390" y="320" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="KQ86oH6FEmzSdROwBOAi-9" value="Vertical Container" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="200" y="10" width="200" height="200" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
